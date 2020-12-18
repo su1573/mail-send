@@ -113,9 +113,9 @@ public class MailStmpSend {
         try {
 
             String from = "职业年金受托";//发件人昵称展示
-//            String[] to = {"supenghui@sinosoft.com.cn", "supenghui@sinosoft.com.cn"};//接收邮箱
+//            String[] to = {"xxx@aaa.com.cn", "xxx@aaa.com.cn"};//接收邮箱
             String to = "xxx@163.com";//接收邮箱
-//            String[] copy = {"supenghui@sinosoft.com.cn", "supenghui@sinosoft.com.cn"};//抄送邮箱
+//            String[] copy = {"xxx@aaa.com.cn", "xxx@aaa.com.cn"};//抄送邮箱
             String copy = "xxx@163.com";//抄送邮箱
             String subject = "测试邮件";//邮件主题
             String text = "你好，这是一封测试邮件，无需回复。";
